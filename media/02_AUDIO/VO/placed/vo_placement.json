@@ -1,0 +1,233 @@
+[
+ {
+  "id": "01",
+  "file": "media/02_AUDIO/VO/placed/VO_01.wav",
+  "at": 0.5136,
+  "text": "I am not a post.",
+  "dur": 2.5455
+ },
+ {
+  "id": "02",
+  "file": "media/02_AUDIO/VO/placed/VO_02.wav",
+  "at": 3.3636,
+  "text": "I am not a campaign.",
+  "dur": 1.3909
+ },
+ {
+  "id": "03",
+  "file": "media/02_AUDIO/VO/placed/VO_03.wav",
+  "at": 5.3491,
+  "text": "I am not somebody's spokesperson.",
+  "dur": 1.8636
+ },
+ {
+  "id": "04",
+  "file": "media/02_AUDIO/VO/placed/VO_04.wav",
+  "at": 7.8073,
+  "text": "My name means something.",
+  "dur": 2.0364
+ },
+ {
+  "id": "05",
+  "file": "media/02_AUDIO/VO/placed/VO_05.wav",
+  "at": 10.3982,
+  "text": "My voice means something.",
+  "dur": 2.1381
+ },
+ {
+  "id": "06",
+  "file": "media/02_AUDIO/VO/placed/VO_06.wav",
+  "at": 13.3091,
+  "text": "My audience trusts something.",
+  "dur": 2.3364
+ },
+ {
+  "id": "07a",
+  "file": "media/02_AUDIO/VO/placed/VO_07a.wav",
+  "at": 16.02,
+  "text": "I am",
+  "dur": 0.8818
+ },
+ {
+  "id": "07b",
+  "file": "media/02_AUDIO/VO/placed/VO_07b.wav",
+  "at": 17.0564,
+  "text": "the asset.",
+  "dur": 0.9636
+ },
+ {
+  "id": "08",
+  "file": "media/02_AUDIO/VO/placed/VO_08.wav",
+  "at": 18.8445,
+  "text": "For decades, the business around talent has been built to monetize attention.",
+  "dur": 4.7091
+ },
+ {
+  "id": "09a",
+  "file": "media/02_AUDIO/VO/placed/VO_09a.wav",
+  "at": 23.7482,
+  "text": "A campaign.",
+  "dur": 0.9
+ },
+ {
+  "id": "09b",
+  "file": "media/02_AUDIO/VO/placed/VO_09b.wav",
+  "at": 24.8627,
+  "text": "A deal.",
+  "dur": 0.7
+ },
+ {
+  "id": "09c",
+  "file": "media/02_AUDIO/VO/placed/VO_09c.wav",
+  "at": 25.7773,
+  "text": "A fee.",
+  "dur": 0.6636
+ },
+ {
+  "id": "10",
+  "file": "media/02_AUDIO/VO/placed/VO_10.wav",
+  "at": 27.6673,
+  "text": "Then it's over.",
+  "dur": 1.5364
+ },
+ {
+  "id": "11",
+  "file": "media/02_AUDIO/VO/placed/VO_11.wav",
+  "at": 30.0973,
+  "text": "But attention was never the most valuable thing you owned.",
+  "dur": 3.6
+ },
+ {
+  "id": "12",
+  "file": "media/02_AUDIO/VO/placed/VO_12.wav",
+  "at": 34.0518,
+  "text": "Trust was.",
+  "dur": 1.2182
+ },
+ {
+  "id": "13",
+  "file": "media/02_AUDIO/VO/placed/VO_13.wav",
+  "at": 35.7645,
+  "text": "Today, almost everything required to build a company can be rented.",
+  "dur": 5.4545
+ },
+ {
+  "id": "14a",
+  "file": "media/02_AUDIO/VO/placed/VO_14a.wav",
+  "at": 41.4736,
+  "text": "Operators.",
+  "dur": 0.9364
+ },
+ {
+  "id": "14b",
+  "file": "media/02_AUDIO/VO/placed/VO_14b.wav",
+  "at": 42.5245,
+  "text": "Infrastructure.",
+  "dur": 1.0364
+ },
+ {
+  "id": "14c",
+  "file": "media/02_AUDIO/VO/placed/VO_14c.wav",
+  "at": 43.6755,
+  "text": "Technology.",
+  "dur": 0.5849
+ },
+ {
+  "id": "15",
+  "file": "media/02_AUDIO/VO/placed/VO_15.wav",
+  "at": 44.6009,
+  "text": "Capital.",
+  "dur": 0.5978
+ },
+ {
+  "id": "16",
+  "file": "media/02_AUDIO/VO/placed/VO_16.wav",
+  "at": 46.2673,
+  "text": "Everything except the demand you already own.",
+  "dur": 2.6364
+ },
+ {
+  "id": "17",
+  "file": "media/02_AUDIO/VO/placed/VO_17.wav",
+  "at": 51.1582,
+  "text": "I am... is Intellectual Asset Management.",
+  "dur": 4.0992
+ },
+ {
+  "id": "18",
+  "file": "media/02_AUDIO/VO/placed/VO_18.wav",
+  "at": 55.6527,
+  "text": "A new seat at the talent's table.",
+  "dur": 1.688
+ },
+ {
+  "id": "19",
+  "file": "media/02_AUDIO/VO/placed/VO_19.wav",
+  "at": 57.9182,
+  "text": "We treat intellectual property as an asset class.",
+  "dur": 4.3947
+ },
+ {
+  "id": "20",
+  "file": "media/02_AUDIO/VO/placed/VO_20.wav",
+  "at": 62.7364,
+  "text": "Management runs the career.",
+  "dur": 1.8455
+ },
+ {
+  "id": "21a",
+  "file": "media/02_AUDIO/VO/placed/VO_21a.wav",
+  "at": 64.9864,
+  "text": "I am...",
+  "dur": 0.6636
+ },
+ {
+  "id": "21b",
+  "file": "media/02_AUDIO/VO/placed/VO_21b.wav",
+  "at": 65.8245,
+  "text": "builds the companies.",
+  "dur": 1.2909
+ },
+ {
+  "id": "22",
+  "file": "media/02_AUDIO/VO/placed/VO_22.wav",
+  "at": 67.77,
+  "text": "New businesses are underwritten around intellectual property.",
+  "dur": 4.3052
+ },
+ {
+  "id": "23",
+  "file": "media/02_AUDIO/VO/placed/VO_23.wav",
+  "at": 72.1945,
+  "text": "Formed with proven operators.",
+  "dur": 2.0091
+ },
+ {
+  "id": "24",
+  "file": "media/02_AUDIO/VO/placed/VO_24.wav",
+  "at": 74.5782,
+  "text": "Built for recurring revenue.",
+  "dur": 2.0273
+ },
+ {
+  "id": "25",
+  "file": "media/02_AUDIO/VO/placed/VO_25.wav",
+  "at": 77.1,
+  "text": "Structured so talent participates as a founder.",
+  "dur": 2.9636
+ },
+ {
+  "id": "26",
+  "file": "media/02_AUDIO/VO/placed/VO_26.wav",
+  "at": 80.5382,
+  "text": "Not rented by the business.",
+  "dur": 2.1364
+ },
+ {
+  "id": "27",
+  "file": "media/02_AUDIO/VO/placed/VO_27.wav",
+  "at": 83.1491,
+  "text": "An owner of it.",
+  "dur": 0.9727
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "comp": "AE_01_DEMAND_CANNOT_BE_RENTED",
+  "layer": "text",
+  "file": "media/03_GFX/AE_01_DEMAND_CANNOT_BE_RENTED__text.png",
+  "t_in": 0.0,
+  "d_in": 0.65,
+  "d_out": 0.35,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_02_IAM_INTRO",
+  "layer": "mark",
+  "file": "media/03_GFX/AE_02_IAM_INTRO__mark.png",
+  "t_in": 0.0,
+  "d_in": 0.7,
+  "d_out": 0.5,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_03_UNDERWRITE",
+  "layer": "scrim",
+  "file": "media/03_GFX/AE_03_UNDERWRITE__scrim.png",
+  "t_in": 0.0,
+  "d_in": 0.45,
+  "d_out": 0.25,
+  "dy": 0,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_03_UNDERWRITE",
+  "layer": "index",
+  "file": "media/03_GFX/AE_03_UNDERWRITE__index.png",
+  "t_in": 0.0,
+  "d_in": 0.5,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_03_UNDERWRITE",
+  "layer": "word",
+  "file": "media/03_GFX/AE_03_UNDERWRITE__word.png",
+  "t_in": 0.08,
+  "d_in": 0.55,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_04_MATCH",
+  "layer": "scrim",
+  "file": "media/03_GFX/AE_04_MATCH__scrim.png",
+  "t_in": 0.0,
+  "d_in": 0.45,
+  "d_out": 0.25,
+  "dy": 0,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_04_MATCH",
+  "layer": "index",
+  "file": "media/03_GFX/AE_04_MATCH__index.png",
+  "t_in": 0.0,
+  "d_in": 0.5,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_04_MATCH",
+  "layer": "word",
+  "file": "media/03_GFX/AE_04_MATCH__word.png",
+  "t_in": 0.08,
+  "d_in": 0.55,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_05_FORM",
+  "layer": "scrim",
+  "file": "media/03_GFX/AE_05_FORM__scrim.png",
+  "t_in": 0.0,
+  "d_in": 0.45,
+  "d_out": 0.25,
+  "dy": 0,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_05_FORM",
+  "layer": "index",
+  "file": "media/03_GFX/AE_05_FORM__index.png",
+  "t_in": 0.0,
+  "d_in": 0.5,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_05_FORM",
+  "layer": "word",
+  "file": "media/03_GFX/AE_05_FORM__word.png",
+  "t_in": 0.08,
+  "d_in": 0.55,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_06_OPERATE",
+  "layer": "scrim",
+  "file": "media/03_GFX/AE_06_OPERATE__scrim.png",
+  "t_in": 0.0,
+  "d_in": 0.45,
+  "d_out": 0.25,
+  "dy": 0,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_06_OPERATE",
+  "layer": "index",
+  "file": "media/03_GFX/AE_06_OPERATE__index.png",
+  "t_in": 0.0,
+  "d_in": 0.5,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_06_OPERATE",
+  "layer": "word",
+  "file": "media/03_GFX/AE_06_OPERATE__word.png",
+  "t_in": 0.08,
+  "d_in": 0.55,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_07_COMPOUND",
+  "layer": "scrim",
+  "file": "media/03_GFX/AE_07_COMPOUND__scrim.png",
+  "t_in": 0.0,
+  "d_in": 0.45,
+  "d_out": 0.25,
+  "dy": 0,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_07_COMPOUND",
+  "layer": "index",
+  "file": "media/03_GFX/AE_07_COMPOUND__index.png",
+  "t_in": 0.0,
+  "d_in": 0.5,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_07_COMPOUND",
+  "layer": "word",
+  "file": "media/03_GFX/AE_07_COMPOUND__word.png",
+  "t_in": 0.08,
+  "d_in": 0.55,
+  "d_out": 0.25,
+  "dy": 16,
+  "hold_to_end": false
+ },
+ {
+  "comp": "AE_08_FINAL_LOCKUP",
+  "layer": "mark",
+  "file": "media/03_GFX/AE_08_FINAL_LOCKUP__mark.png",
+  "t_in": 0.0,
+  "d_in": 0.6,
+  "d_out": 0.3,
+  "dy": 0,
+  "hold_to_end": true
+ },
+ {
+  "comp": "AE_08_FINAL_LOCKUP",
+  "layer": "title",
+  "file": "media/03_GFX/AE_08_FINAL_LOCKUP__title.png",
+  "t_in": 0.15,
+  "d_in": 0.6,
+  "d_out": 0.3,
+  "dy": 0,
+  "hold_to_end": true
+ },
+ {
+  "comp": "AE_08_FINAL_LOCKUP",
+  "layer": "tagline",
+  "file": "media/03_GFX/AE_08_FINAL_LOCKUP__tagline.png",
+  "t_in": 0.7,
+  "d_in": 0.6,
+  "d_out": 0.3,
+  "dy": 0,
+  "hold_to_end": true
+ },
+ {
+  "comp": "AE_09_LEGAL",
+  "layer": "legal",
+  "file": "media/03_GFX/AE_09_LEGAL__legal.png",
+  "t_in": 0.15,
+  "d_in": 0.4,
+  "d_out": 0.3,
+  "dy": 0,
+  "hold_to_end": true
+ }
+]

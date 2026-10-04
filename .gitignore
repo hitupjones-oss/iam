@@ -1,0 +1,9 @@
+build/
+exports/
+__pycache__/
+*.pyc
+# full-rate WAV stems are rebuilt by tools/build_audio.py; FLAC copies live in media/02_AUDIO/STEMS_FLAC
+media/02_AUDIO/MUSIC/*.wav
+media/02_AUDIO/SFX/*.wav
+media/02_AUDIO/MIX/*.wav
+media/02_AUDIO/VO/placed/*.wav
